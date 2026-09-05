@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes an e-commerce sales dataset to identify sales trends, customer behavior, product performance, and regional profitability using Python, NumPy, Pandas, Matplotlib, and Seaborn.
+This project analyzes an e-commerce sales dataset to identify sales trends, customer behavior, product performance and regional profitability using Python, NumPy, Pandas, Matplotlib and Seaborn.
 
 ## Tools Used
 
