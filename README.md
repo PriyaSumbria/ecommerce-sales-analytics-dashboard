@@ -4,7 +4,7 @@ A complete end-to-end Data Analytics project analyzing e-commerce sales performa
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](Images/dashboard_preview.png)
 
 ## Business Problem
 
