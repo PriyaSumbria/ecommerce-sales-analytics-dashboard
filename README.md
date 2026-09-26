@@ -4,7 +4,7 @@ A complete end-to-end Data Analytics project analyzing e-commerce sales performa
 
 ## Dashboard Preview
 
-*(Insert dashboard_preview.png here after uploading it to GitHub.)*
+![Dashboard](images/dashboard_preview.png)
 
 ## Business Problem
 
@@ -70,7 +70,5 @@ ecommerce-sales-analytics-dashboard/
 * SQL-based analysis using the same dataset.
 * Streamlit web dashboard.
 * Customer segmentation (RFM analysis).
-## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
 
